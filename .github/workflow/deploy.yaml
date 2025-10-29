@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Shreya School</title>
+  <style>
+    body {font-family: Arial; margin:0; background:#f0f8ff;}
+    header, footer {background:#004080; color:white; text-align:center; padding:10px;}
+    nav {background:#0066cc; text-align:center;}
+    nav a {color:white; padding:10px; text-decoration:none; display:inline-block;}
+    section {padding:20px;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Shreya School</h1>
+  <p>Learning Today, Leading Tomorrow</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#academics">Academics</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>Shreya School provides quality education and all-round development for every student.</p>
+</section>
+
+<section id="academics">
+  <h2>Academics</h2>
+  <p>We offer classes from Grade 1 to 12 with modern teaching methods.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: info@shreyaschool.com<br>Phone: +91 98765 43210</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Shreya School</p>
+</footer>
+
+</body>
+</html>
